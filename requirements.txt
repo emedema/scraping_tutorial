@@ -5,3 +5,4 @@ bs4
 MechanicalSoup
 Scrapy
 selenium
+re
