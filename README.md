@@ -6,6 +6,8 @@ This Scraping Tutorial created for Tracking Injustice to aid in the creation of 
 
 ```
 ├── tutorial.ipynb         # A notebook that condenses all of the code into one python notebook
+.
+├── requirements.txt         # A txt file that lists all the library requirements for the tutorial
 ```
 
 ## Authors
