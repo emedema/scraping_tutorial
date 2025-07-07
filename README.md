@@ -18,7 +18,7 @@ This Scraping Tutorial created for Tracking Injustice to aid in the creation of 
 ## Authors
 
 - ![Emily Medema]("https://github.com/emedema")
-- ![Rohan Khan]("https://github.com/rohanfaiyazkhan")
+- ![Rina Khan]("(https://github.com/rinajhinjhina)")
 
 ## License
 
